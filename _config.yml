@@ -4,8 +4,8 @@ email: daniel9addison@gmail.com
 description: > # this means to ignore newlines until "show_exerpts:"
   Daniel Addiosn is an Information Systems major with a passion for technology. Looking to use his proven technical skills to assist companies meet business needs.
 show_excerpts: true # set to true to show excerpts on the homepage
-baseurl: "/portfolio"
-url: "https://danieladd9.github.io/"
+# baseurl: "/portfolio"
+# url: "https://danieladd9.github.io/"
 
 # Minima date format
 # refer to http://shopify.github.io/liquid/filters/date/ if you want to customize this
