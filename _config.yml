@@ -32,7 +32,7 @@ plainwhite:
     - post
   # generate social links in footer
   social_links:
-    twitter: danieladdsn
+    #twitter: danieladdsn
     github:  danieladd9
     linkedIn: in/Danieladdsn
     #rss: rss
@@ -45,7 +45,7 @@ plainwhite:
     #soundcloud: jekyll
     #telegram: jekyll
     #gitlab: jekyll
-    #email: jekyll
+    email: daniel9addison@gmail.com
 
     # Mastodon instances
     # mastodon:
