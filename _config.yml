@@ -20,8 +20,8 @@ plainwhite:
   portfolio_image_dark: "assets/portfolio_dark.png" # the path from the base directory of the site to the image to display (no / at the start)
   html_lang: "en" # set the lang attribute of the <html> tag for the pages. See here for a list of codes: https://www.w3schools.com/tags/ref_country_codes.asp
   navigation:
-    - title: My Work
-      url: "/my-work"
+    # - title: My Work
+    #   url: "https://www.danieladdsn.com/#h.y3h7r2nuwytf"
     - title: Resume
       url: "https://docs.google.com/document/d/1g-Z6-hIVeqyo9y3SFAKzIJ1mcBkYcPnmoWd0trXzMj4/edit?usp=sharing"
   condensed_mobile:
@@ -32,7 +32,7 @@ plainwhite:
   social_links:
     twitter: danieladdsn
     github:  danieladd9
-    linkedIn: in/danieladdsn
+    linkedIn: in/Danieladdsn
     #rss: rss
     #dribbble: jekyll
     #flickr:   jekyll

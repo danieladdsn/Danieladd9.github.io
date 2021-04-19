@@ -1,20 +1,20 @@
 ---
 layout: post
-title:  "About"
+title:  "About Me"
 categories: Javascript NodeJS
 ---
 ```
 > Daniel.origin
-  => "Palo Alto, CA"
+  => "Los Angeles, CA"
 
 > Daniel.education
-  => "University of Southern California"
+  => "Marist College"
 
 > Daniel.major
 	=> "Information Systems & Technology"
 
 > Daniel.concentration
-	=> "Computer Science"
+	=> "Information Systems"
 
 > Daniel.minor
   => "Computer Science"
@@ -40,5 +40,4 @@ categories: Javascript NodeJS
 
 > Daniel.email
   => "daniel9addison@gmail.com"
-	
 ```
