@@ -8,7 +8,7 @@ layout: default
 
 {{ content }}
 
-{%- if site.posts.size > 0 -%}
+<!-- {%- if site.posts.size > 0 -%}
   <ul class="posts">
     <li class="posts-labelgroup" id="posts-labelgroup">
       <h1 id="posts-label">posts</h1>
@@ -49,6 +49,43 @@ layout: default
                 </div>
       </li>
     {%- endfor -%}
-  </ul>
+  </ul> -->
   
+  <!-- Console -->
+  <div id="code">
+    <div id="console">
+      &gt; Daniel.origin<br/>
+      <span class="answer">&nbsp;&nbsp;=&gt; "Los Angeles, CA"<br/><br/></span>
+      &gt; Daniel.education<br/>
+      <span class="answer">&nbsp;&nbsp;=&gt; "Marist College"<br/><br/></span>
+      &gt; Daniel.major<br/>
+      <span class="answer">&nbsp;&nbsp;=&gt; "Information Technology and Systems"<br/><br/></span>
+      &gt; Daniel.concentration<br/>
+      <span class="answer">&nbsp;&nbsp;=&gt; "Systems"<br/><br/></span>
+      &gt; Daniel.minor<br/>
+      <span class="answer">&nbsp;&nbsp;=&gt; "Computer Science"<br/><br/></span>
+      &gt; Daniel.expectedGraduation<br/>
+      <span class="answer">&nbsp;&nbsp;=&gt; "May 2021"<br/><br/></span>
+      &gt; Daniel.interests<br/>
+      <span class="answer">&nbsp;&nbsp;=&gt; ["Design", "Code", "Coffee", "Typography", "Music", "Editing", "Fashion"]<br/><br/></span>
+      &gt; Daniel.workExperience.latest<br/>
+      <span class="answer">&nbsp;&nbsp;=&gt; Latest Work Experience<br/>
+                 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; company: "Snap Inc"<br/>
+                 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; role: "Software Engineer"<br/>
+                 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; startDate: "June 2021"<br/>
+                 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; endDate: "Present"<br/>
+      <br/></span>
+      &gt; Daniel.resume<br/>
+      <span class="answer">&nbsp;&nbsp;=&gt; "<a target="_blank" href="danieladdison.pdf">danieladdison.pdf</a>"<br/><br/></span>
+      &gt; Daniel.thoughts<br/>
+      <span class="answer">&nbsp;&nbsp;=&gt; ["<a target="_blank" href="http://www.twitter.com/danieladdsn">@danieladdsn</a>",
+         "<a target="_blank" href="https://www.danieladdsn.com/blog">advancedsettings.tumblr.com</a>",
+         "<a target="_blank" href="https://music.apple.com/profile/danieladdsn">applemusic</a>"]<br/><br/></span>
+      &gt; Daniel.email<br/>
+      <span class="answer">&nbsp;&nbsp;=&gt; "<a target="_blank" href="mailto:daniel9addison@gmail.com">daniel9addison@gmail.com</a>"<br/><br/></span>
+    </div>
+  </div>
+</div>
+<br/>
+</div>
 {%- endif -%}
