@@ -14,7 +14,7 @@ categories: Javascript NodeJS
 	=> "Information Systems & Technology"
 
 > Daniel.concentration
-	=> "Information Systems"
+	=> "Systems"
 
 > Daniel.minor
   => "Computer Science"
