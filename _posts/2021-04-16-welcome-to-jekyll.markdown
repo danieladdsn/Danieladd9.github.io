@@ -27,8 +27,8 @@ categories: Javascript NodeJS
 
 > Daniel.workExperience.latest
   => Latest Work Experience
-        company: "Snap Inc. 👻 "
-        role: "Software Engineer"
+        company: "Snap Inc."
+        role: "Snap Engineering Academy Scholar"
         startDate: "June 2021"
         endDate: "Present"
 
