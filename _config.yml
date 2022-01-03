@@ -1,8 +1,8 @@
 title: portfolio
 author: Daniel Addison
 email: daniel9addison@gmail.com
-description: > # this means to ignore newlines until "show_exerpts:"
-  Daniel Addiosn is an Information Systems major with a passion for technology. Looking to use his proven technical skills to assist companies meet business needs.
+# description: > # this means to ignore newlines until "show_exerpts:"
+#   Daniel Addiosn is an Information Systems major with a passion for technology. Looking to use his proven technical skills to assist companies meet business needs.
 show_excerpts: true # set to true to show excerpts on the homepage
 # baseurl: "/portfolio"
 # url: "https://danieladd9.github.io/"
@@ -10,49 +10,49 @@ show_excerpts: true # set to true to show excerpts on the homepage
 # Minima date format
 # refer to http://shopify.github.io/liquid/filters/date/ if you want to customize this
 sass:
-  sass_dir: _sass
+      sass_dir: _sass
 plainwhite:
-  name: Daniel Addison
-  tagline: Hello world! I am a Software Developer & Designer
-  date_format: "%b %-d, %Y"
-  sitemap: true # set to true to generate sitemap.xml content
-  search: true # set to true to enable searchbar
-  dark_mode: true # set to true to add dark mode toggle
-  portfolio_image: "assets/portfolio.png"
-  portfolio_image_dark: "assets/portfolio_dark.png" # the path from the base directory of the site to the image to display (no / at the start)
-  html_lang: "en" # set the lang attribute of the <html> tag for the pages. See here for a list of codes: https://www.w3schools.com/tags/ref_country_codes.asp
-  navigation:
-    # - title: My Work
-    #   url: "https://www.danieladdsn.com/#h.y3h7r2nuwytf"
-    - title: Resume
-      url: "https://docs.google.com/document/d/1g-Z6-hIVeqyo9y3SFAKzIJ1mcBkYcPnmoWd0trXzMj4/edit?usp=sharing"
-  condensed_mobile:
-    #- home
-    - page
-    - post
-  # generate social links in footer
-  social_links:
-    #twitter: danieladdsn
-    github:  danieladd9
-    linkedIn: in/Danieladdsn
-    #rss: rss
-    #dribbble: jekyll
-    #flickr:   jekyll
-    #instagram: jekyll
-    #pinterest: jekyll
-    #youtube: jekyll
-    #facebook: jekyll
-    #soundcloud: jekyll
-    #telegram: jekyll
-    #gitlab: jekyll
-    email: daniel9addison@gmail.com
+      # name: Daniel Addison
+      tagline: Hello world! I am a Software Developer & Designer
+      date_format: "%b %-d, %Y"
+      sitemap: true # set to true to generate sitemap.xml content
+      search: true # set to true to enable searchbar
+      dark_mode: true # set to true to add dark mode toggle
+      # portfolio_image: "assets/portfolio.png"
+      # portfolio_image_dark: "assets/portfolio_dark.png" # the path from the base directory of the site to the image to display (no / at the start)
+      html_lang: "en" # set the lang attribute of the <html> tag for the pages. See here for a list of codes: https://www.w3schools.com/tags/ref_country_codes.asp
+      navigation:
+            # - title: My Work
+            #   url: "https://www.danieladdsn.com/#h.y3h7r2nuwytf"
+            - title: Resume
+              url: "https://docs.google.com/document/d/1g-Z6-hIVeqyo9y3SFAKzIJ1mcBkYcPnmoWd0trXzMj4/edit?usp=sharing"
+      condensed_mobile:
+            #- home
+            - page
+            - post
+      # generate social links in footer
+      social_links:
+            #twitter: danieladdsn
+            github: danieladd9
+            linkedIn: in/Danieladdsn
+            #rss: rss
+            #dribbble: jekyll
+            #flickr:   jekyll
+            #instagram: jekyll
+            #pinterest: jekyll
+            #youtube: jekyll
+            #facebook: jekyll
+            #soundcloud: jekyll
+            #telegram: jekyll
+            #gitlab: jekyll
+            email: daniel9addison@gmail.com
 
-    # Mastodon instances
-    # mastodon:
-    # - username: jekyll
-    #   instance: example.com
-    # - username: jekyll2
-    #   instance: example.com
+            # Mastodon instances
+            # mastodon:
+            # - username: jekyll
+            #   instance: example.com
+            # - username: jekyll2
+            #   instance: example.com
 
 # If you want to link only specific pages in your header, uncomment
 # this and add the path to the pages in order as they should show up
@@ -63,7 +63,7 @@ plainwhite:
 theme: plainwhite
 
 plugins:
-  - jekyll-seo-tag
+      - jekyll-seo-tag
 #  - jekyll-feed
 
 remote_theme: Danieladd9/Danieladd9.github.io
