@@ -14,7 +14,7 @@ sass:
 plainwhite:
       # name: Daniel Addison
       tagline: Hello world! I am a Software Developer & Designer
-      date_format: "%b %-d, %Y"
+      # date_format: "%b %-d, %Y"
       sitemap: true # set to true to generate sitemap.xml content
       search: true # set to true to enable searchbar
       dark_mode: true # set to true to add dark mode toggle
@@ -28,13 +28,13 @@ plainwhite:
               url: "https://docs.google.com/document/d/1g-Z6-hIVeqyo9y3SFAKzIJ1mcBkYcPnmoWd0trXzMj4/edit?usp=sharing"
       condensed_mobile:
             #- home
-            - page
+            #- page
             - post
       # generate social links in footer
       social_links:
             #twitter: danieladdsn
-            github: danieladd9
-            linkedIn: in/Danieladdsn
+            #github: danieladd9
+            #linkedIn: in/Danieladdsn
             #rss: rss
             #dribbble: jekyll
             #flickr:   jekyll
@@ -45,7 +45,7 @@ plainwhite:
             #soundcloud: jekyll
             #telegram: jekyll
             #gitlab: jekyll
-            email: daniel9addison@gmail.com
+            #email: daniel9addison@gmail.com
 
             # Mastodon instances
             # mastodon:
