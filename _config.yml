@@ -1,9 +1,9 @@
 title: portfolio
 author: Daniel Addison
 email: daniel9addison@gmail.com
-# description: > # this means to ignore newlines until "show_exerpts:"
-#   Daniel Addiosn is an Information Systems major with a passion for technology. Looking to use his proven technical skills to assist companies meet business needs.
-show_excerpts: true # set to true to show excerpts on the homepage
+ description: > # this means to ignore newlines until "show_exerpts:"
+   Daniel Addiosn is an Information Systems major with a passion for technology. Looking to use his proven technical skills to assist companies meet business needs.
+show_excerpts: False # set to true to show excerpts on the homepage
 # baseurl: "/portfolio"
 # url: "https://danieladd9.github.io/"
 
@@ -15,9 +15,9 @@ plainwhite:
       # name: Daniel Addison
       tagline: Hello world! I am a Software Developer & Designer
       # date_format: "%b %-d, %Y"
-      sitemap: true # set to true to generate sitemap.xml content
-      search: true # set to true to enable searchbar
-      dark_mode: true # set to true to add dark mode toggle
+      sitemap: False # set to true to generate sitemap.xml content
+      search: False # set to true to enable searchbar
+      dark_mode: False # set to true to add dark mode toggle
       # portfolio_image: "assets/portfolio.png"
       # portfolio_image_dark: "assets/portfolio_dark.png" # the path from the base directory of the site to the image to display (no / at the start)
       html_lang: "en" # set the lang attribute of the <html> tag for the pages. See here for a list of codes: https://www.w3schools.com/tags/ref_country_codes.asp
