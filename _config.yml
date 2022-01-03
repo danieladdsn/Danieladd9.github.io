@@ -28,7 +28,7 @@ plainwhite:
               url: "https://docs.google.com/document/d/1g-Z6-hIVeqyo9y3SFAKzIJ1mcBkYcPnmoWd0trXzMj4/edit?usp=sharing"
       condensed_mobile:
             #- home
-            #- page
+            - page
             - post
       # generate social links in footer
       social_links:
