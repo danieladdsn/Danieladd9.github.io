@@ -1,8 +1,3 @@
----
-layout: post
-title:  "About Me"
-categories: Javascript NodeJS
----
 ```
 > Daniel.origin
   => "Los Angeles, CA"
